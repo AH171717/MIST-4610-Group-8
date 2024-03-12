@@ -13,4 +13,4 @@ https://github.com/taralbpatel/Mist4610GroupProject1 (Completed Project Example)
 3. Collin Ladina
 4. Abe Michael
 # Problem Description(Placeholder):
-The primary objective of this project is to design and develop a comprehensive relational database that supports the core operations of our micro-loan provision business. This database will be pivotal in managing the intricate details of loan applications, customer information, loan disbursement, payment tracking, and comprehensive reporting. Additionally, it will support our risk assessment models, manage user accounts for both customers and employees, and facilitate secure financial transactions.
+The primary objective of this project is to design and develop a comprehensive relational database to underpin the operations of our micro-loan provision service. To achieve our mission of financial inclusion, our database must efficiently manage loan application processing, customer information, loan disbursement, and payment tracking. It will also support our risk assessment models and manage user accounts for both customers and employees, ensuring the secure handling of financial transactions.
