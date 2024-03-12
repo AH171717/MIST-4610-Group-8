@@ -1,3 +1,8 @@
+# Progress Tracking:
+https://trello.com/b/VSkuxSJo/group-project-1 (Trello)
+https://docs.google.com/document/d/1hOLIT3dj96K-tEwZ51q55aAdv68_UIss3fzTrdm7F6U/edit (Google Docs)
+https://github.com/taralbpatel/Mist4610GroupProject1 (Completed Project Example)
+
 # Team Name:
 21482 Group 8
 # Team Members:
