@@ -29,6 +29,8 @@ The primary objective of this project is to design and develop a comprehensive r
 
 # Queries
 
+![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/9b9a6d1c-de73-4ab8-867c-f571b53eaf87)
+
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/e4bd0ade-6042-47a5-a8e3-14eded50fda6)
 
 Description: This query identifies customers who have raised support tickets
@@ -88,6 +90,3 @@ Justification: Managers can use this query to analyze payment trends across diff
 Description: This query identifies the top  customers with the highest total loan amounts.
 
 Justification: Managers can use this query to identify high-value customers who contribute significantly to the loan portfolio. It helps in prioritizing customer relationship management efforts and offering tailored financial solutions to meet their needs.
-
-![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/9b9a6d1c-de73-4ab8-867c-f571b53eaf87)
-
