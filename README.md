@@ -5,7 +5,7 @@
 1. [Matteo Garza](https://github.com/matteo101man)
 2. Andrew Hayes
 3. [Collin Ladina](https://github.com/CollinLadina)
-4. Abe Michael
+4. [Abe Michael](https://github.com/abemichael12)
 # Problem Description:
 The primary objective of this project is to design and develop a comprehensive relational database to underpin the operations of our micro-loan provision service. To achieve our mission of financial inclusion, our database must efficiently manage loan application processing, customer information, loan disbursement, and payment tracking. It will also support our risk assessment models and manage user accounts for customers while having assigned employees to help manage the accounts, ensuring the secure handling of financial transactions.
 # Data Model 
