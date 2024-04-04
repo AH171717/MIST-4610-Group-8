@@ -112,3 +112,8 @@ Justification: Managers can use this query to analyze payment trends across diff
 Description: This query identifies the top  customers with the highest total loan amounts.
 
 Justification: Managers can use this query to identify high-value customers who contribute significantly to the loan portfolio. It helps in prioritizing customer relationship management efforts and offering tailored financial solutions to meet their needs.
+
+# Database Information 
+Name of the database: al_Group_21482_G8
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1(); (CALL TP IS A PLACEHOLDER)
