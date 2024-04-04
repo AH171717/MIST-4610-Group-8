@@ -10,7 +10,6 @@
 The primary objective of this project is to design and develop a comprehensive relational database to underpin the operations of our micro-loan provision service. To achieve our mission of financial inclusion, our database must efficiently manage loan application processing, customer information, loan disbursement, and payment tracking. It will also support our risk assessment models and manage user accounts for customers while having assigned employees to help manage the accounts, ensuring the secure handling of financial transactions.
 # Data Model 
 
-![image](https://github.com/AH171717/MIST-4610-Group-8/assets/128336029/660149f2-a4b0-4f5e-b85f-23ed492ca786)
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163200880/8852d53f-0c30-420b-a3be-eba61e14bd18)
 
 
