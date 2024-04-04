@@ -12,7 +12,7 @@ The primary objective of this project is to design and develop a comprehensive r
 
 Explanation of Data Model:
 
-At the core of our data model is the Account entity, which represents user accounts for both customers and employees. Customers are the primary users of our micro-loan service, and their information is stored in the Customer entity. This entity has a one-to-many relationship with the Account entity, as each customer can have multiple accounts (e.g., savings, checking, or loan accounts).
+At the core of our data model is the Account entity, which represents user accounts for customers, with employees assigned to manage the accounts. Customers are the primary users of our micro-loan service, and their information is stored in the Customer entity. This entity has a one-to-one relationship with the Account entity, as each customer will have one account for simplicity.
 
 Employees play a crucial role in managing customer accounts and processing loan applications. The Employee entity stores employee information and has a one-to-many relationship with the Account entity, as each employee can be responsible for multiple accounts.
 
@@ -20,16 +20,17 @@ When a customer applies for a loan, the application data is captured in the Loan
 
 Once a loan application is approved, a loan agreement is created and stored in the LoanAgreement entity. This entity has a one-to-one relationship with the LoanApplication entity, as each approved application results in a single loan agreement. The LoanAgreement entity contains important details such as the agreement date, due date, interest rate, and repayment terms.
 
-Transactions related to loan disbursements and repayments are tracked in the Transaction entity. This entity has a many-to-one relationship with the LoanAgreement entity, as a single loan agreement can have multiple transactions associated with it. The Payment entity, which has a one-to-one relationship with the Transaction entity, records specific payment information like the payment date and amount.
+Transactions related to loan disbursements and repayments are tracked in the Transaction entity. This entity has a one-to-many relationship with the LoanAgreement entity, as a single loan agreement can have multiple transactions associated with it. The Payment entity, which has a one-to-one relationship with the Transaction entity, records specific payment information like the payment date, method, and amount.
 
 To ensure responsible lending practices, our data model includes a RiskAssessment entity. This entity stores risk assessment data for each loan application and has a one-to-one relationship with the LoanApplication entity. The risk assessment helps determine loan eligibility and terms.
 
-Customer support is an essential aspect of our micro-loan service, and the SupportTicket entity manages customer inquiries and issues. This entity has a many-to-one relationship with both the Customer and Employee entities, as a customer can create multiple support tickets, and an employee can handle multiple tickets.
+Customer support is an essential aspect of our micro-loan service, and the SupportTicket entity manages customer inquiries and issues. This entity has a one-to-many relationship with both the Customer and Employee entities, as a customer can create multiple support tickets, and an employee can handle multiple tickets.
 
-Finally, the Document entity handles metadata related to various documents, such as loan applications, agreements, and financial product information. This entity has relationships with the LoanApplication, LoanAgreement, and FinancialProduct entities, ensuring that all relevant documentation is properly organized and accessible.
+We also have a Document entity, which handles data related to various loan application documents. This entity has a one-to-many relationship with the LoanApplication entity, ensuring that all relevant documentation is properly organized and accessible.
+
+Finally, we have the ActionLog entity. This entity has a one-to-many relationship with both the Customer and Employee entities. This will be used for tracking each and every action that occurs between customers and employees throughout the whole loaning process.
 
 By carefully designing these entities and their relationships, we have created a robust and efficient data model that supports the core functions of our micro-loan service while prioritizing data security, financial inclusion, and customer satisfaction.
-
 
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163200880/8852d53f-0c30-420b-a3be-eba61e14bd18)
 
