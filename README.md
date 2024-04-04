@@ -9,7 +9,9 @@
 # Problem Description:
 The primary objective of this project is to design and develop a comprehensive relational database to underpin the operations of our micro-loan provision service. To achieve our mission of financial inclusion, our database must efficiently manage loan application processing, customer information, loan disbursement, and payment tracking. It will also support our risk assessment models and manage user accounts for customers while having assigned employees to help manage the accounts, ensuring the secure handling of financial transactions.
 # Data Model 
+
 Explanation of Data Model:
+
 At the core of our data model is the Account entity, which represents user accounts for both customers and employees. Customers are the primary users of our micro-loan service, and their information is stored in the Customer entity. This entity has a one-to-many relationship with the Account entity, as each customer can have multiple accounts (e.g., savings, checking, or loan accounts).
 
 Employees play a crucial role in managing customer accounts and processing loan applications. The Employee entity stores employee information and has a one-to-many relationship with the Account entity, as each employee can be responsible for multiple accounts.
