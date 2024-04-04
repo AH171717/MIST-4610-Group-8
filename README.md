@@ -11,7 +11,7 @@ The primary objective of this project is to design and develop a comprehensive r
 # Data Model 
 
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/128336029/660149f2-a4b0-4f5e-b85f-23ed492ca786)
-
+![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163200880/8852d53f-0c30-420b-a3be-eba61e14bd18)
 
 
 # Data Dictionary 
