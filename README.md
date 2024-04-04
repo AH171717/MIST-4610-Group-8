@@ -88,3 +88,5 @@ Description: This query identifies the top  customers with the highest total loa
 
 Justification: Managers can use this query to identify high-value customers who contribute significantly to the loan portfolio. It helps in prioritizing customer relationship management efforts and offering tailored financial solutions to meet their needs.
 
+![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/9b9a6d1c-de73-4ab8-867c-f571b53eaf87)
+
