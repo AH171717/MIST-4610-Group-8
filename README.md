@@ -27,6 +27,8 @@ The primary objective of this project is to design and develop a comprehensive r
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/420529fe-e3ce-4709-95ce-40df43f55589)
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/e91b9962-393d-45c2-af0e-b68b44a16ba3)
 
+# Queries
+
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/e4bd0ade-6042-47a5-a8e3-14eded50fda6)
 
 Description: This query identifies customers who have raised support tickets
