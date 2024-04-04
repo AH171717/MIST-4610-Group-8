@@ -2,7 +2,7 @@
 # Team Name:
 21482 Group 8
 # Team Members:
-1. Matteo Garza[Matteo Garza](https://github.com/matteo101man)
+1. [Matteo Garza](https://github.com/matteo101man)
 2. Andrew Hayes
 3. Collin Ladina
 4. Abe Michael
