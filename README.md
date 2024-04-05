@@ -42,6 +42,7 @@ By carefully designing these entities and their relationships, we have created a
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/c1e81154-1fc8-4359-af8a-8d94fcbd254b)
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/0f80763f-77aa-424a-806b-0570a5fe44e5)
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/1f87cab5-44f9-4559-b888-cadafa7d92f0)
+![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163200880/4c400cb3-e309-4258-84e1-ff6c7aac5ec6)
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/a82883a0-2a17-4375-ade6-728063e74694)
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/9e933aee-8c99-4552-93db-49842ff559df)
 ![image](https://github.com/AH171717/MIST-4610-Group-8/assets/163201574/edbea620-00e8-4bf0-9943-518fbdcf7c69)
